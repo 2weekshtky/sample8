@@ -1,0 +1,102 @@
+header,section,aside,nav,footer,gigure,figcaption{
+display:block;
+}
+body{
+border:5px black solid;
+width:1200px;
+height:2000px;
+margin-left:10em ;
+background-color:gray;
+    background-image:url(https://images.unsplash.com/photo-1517263904808-5dc91e3e7044?ixlib=rb-1.2.1&auto=format&fit=crop&w=500&q=60) ;
+    background-position:top right;
+
+}
+
+#logo{
+border:thin black solid;
+width:1200px;
+height:200px;
+background-image:url(https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSr5HJH1bNNOITW97WEXzypuRhxHthFH-6O5xIqBrhln8jWD8AzLQ&s);
+background-repeat:no-repeat;
+background-color:white;
+}
+#logo h1{
+margin-left:10em;
+}
+
+
+
+nav ul{
+list-style-type:none;
+margin:0;
+padding:0;	
+}
+nav li{
+float:left;
+width:238px;
+height:35px;
+background-color:#CCC;
+text-align:center;
+border-left:1px black solid;
+border-right:1px black solid;
+line-height:35px;
+margin-top:
+}
+
+nav ul li a{
+color:#ffffff;
+text-decoration:none;
+display:block;
+}
+nav ul li a:hover{
+background-color:gray;
+color:white;
+}
+body#home .nav-home{
+background-color:black;
+color:white;
+}
+
+
+
+
+
+
+#left{
+float:left;
+width:300px;
+height:600px;
+background-color:pink;
+}
+#right{
+float:right;
+width:896px;
+height:600px;
+background-color:pink;
+border:thin black solid;
+    background-image:url(https://images.unsplash.com/photo-1497050284693-c7c48a96240a?ixlib=rb-1.2.1&auto=format&fit=crop&w=500&q=60 );
+        width="200" height="400";
+}
+
+
+
+
+
+
+#footer{
+clear:both;
+background-color: white;
+}
+figure{
+float:right;
+border: 1px solid gray;
+padding: 0.55em;
+margin:0 1.5em 1.5em 0;
+}
+figcaption{
+text-align:center;
+font:italic 0.9 Georgia,"Time New Roman",Times,serif;
+font-size:0.8em;
+}
+
+

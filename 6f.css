@@ -1,0 +1,10 @@
+#left p{
+font-family: "Trebuchet MS",Time New Roman, Tahoma, Arial, sans-serif;
+font-size:100%; 
+}
+figure{
+float:right;
+border: 1px solid gray;
+padding: 0.25em;
+margin:0 1.5em 1.5em 0;
+}
